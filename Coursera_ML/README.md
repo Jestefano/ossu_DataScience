@@ -1,0 +1,1 @@
+Here I am saving two things, first, my programs that summary (part) of the course and the solution to the exercises. Both of them are based on this [repository](https://github.com/dibgerge/ml-coursera-python-assignments).
