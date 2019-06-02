@@ -6,3 +6,8 @@ Since I have already taken [18.01](https://ocw.mit.edu/courses/mathematics/18-01
 (in OCW) on my own in the past I'm just doing the practice exams and the exams. I used 3 cheat sheets to refresh the content.
 
 Up to now I have taken the first exam.
+
+This are the resources that I have used:
+- [Calculus cheat sheet](http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf)
+- [Series cheat sheet](http://furius.ca/cqfpub/doc/series/series.pdf)
+- [Polar coordinates cheat sheet](http://www.math.psu.edu/tseng/class/Ch11formulas.pdf)
