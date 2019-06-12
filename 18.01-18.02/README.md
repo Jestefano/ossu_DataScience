@@ -10,6 +10,7 @@ These are the resources that I have used:
 - [Series cheat sheet](http://furius.ca/cqfpub/doc/series/series.pdf)
 - [Polar coordinates cheat sheet](http://www.math.psu.edu/tseng/class/Ch11formulas.pdf)
 
+# 18.02
 
 For 18.02 I have used:
 - [18.02](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/index.htm)
