@@ -9,3 +9,8 @@ These are the resources that I have used:
 - [Calculus cheat sheet](http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf)
 - [Series cheat sheet](http://furius.ca/cqfpub/doc/series/series.pdf)
 - [Polar coordinates cheat sheet](http://www.math.psu.edu/tseng/class/Ch11formulas.pdf)
+
+
+For 18.02 I have used:
+- [18.02](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/index.htm)
+- [Cheat Sheet](https://sites.tufts.edu/andrewrosen/files/2012/02/Calc-III-Review.pdf)
