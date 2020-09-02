@@ -12,10 +12,9 @@
 - [Kmeans](https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a)
 - [DBSCAN](https://scikit-learn.org/stable/modules/clustering.html#dbscan)
 - [HDBSCAN](https://www.youtube.com/watch?v=dGsxd67IFiU)
-- [hierarchical](https://www.analyticsvidhya.com/blog/2019/05/beginners-guide-hierarchical-clustering/)
-- [tsne1](https://scikit-learn.org/stable/modules/manifold.html#t-sne)
-- [tsne2](https://towardsdatascience.com/an-introduction-to-t-sne-with-python-example-5a3a293108d1)
-- https://medium.com/data-design/how-to-not-be-dumb-at-applying-principal-component-analysis-pca-6c14de5b3c9d
+- [hierarchical](https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering)
+- [tsne](https://scikit-learn.org/stable/modules/manifold.html#t-sne)
+- [pca](https://medium.com/data-design/how-to-not-be-dumb-at-applying-principal-component-analysis-pca-6c14de5b3c9d)
 
 #### Market segmentation
 - https://www.edx.org/course/market-segmentation-analysis
