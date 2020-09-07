@@ -1,0 +1,33 @@
+Software engineering
+
+Modularity: Packages, classes and methods
+Documentation
+Testing: Check code
+Version control
+
+-- Modularity
+
+	help(something)
+
+PEP8: Space, start with libraries
+pycodestyle / IDE
+	import pycodestyle
+	style_checker = pycodestyle.StyleGuide()
+	result = style_checker.check_files(['nay_pep8.py'])
+	print(result.messages)
+
+Package
+- Package name is a folder in lower_case
+- It contains a script __init__.py
+- The work space should contain this folder
+- Import package...
+- We can import the relative packages to our __init__
+	from .utils import func
+- In order to make our package portable we need requirements.txt
+	matplotlib
+	numpy==1.15.4
+	pycodestyle>=2.4.0
+	pip install -r requirements.txt
+- And we need setup.py 
+	from setuptools import setup
+	setup(name,version,description,author,author_empail, packages = [''],install_requires=[])
