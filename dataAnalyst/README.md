@@ -15,3 +15,5 @@ Here I am going to add the resources that I plan on using for the next steps
 - [One hot encoder in pandas](https://stackoverflow.com/questions/58101126/using-scikit-learn-onehotencoder-with-a-pandas-dataframe)
 - pd.crosstab(df.x,df.y) -> Count two categories
 
+## Software engineering 
+- [Datacamp](https://learn.datacamp.com/courses/software-engineering-for-data-scientists-in-python)
