@@ -31,3 +31,30 @@ Package
 - And we need setup.py 
 	from setuptools import setup
 	setup(name,version,description,author,author_empail, packages = [''],install_requires=[])
+	
+- use _ when creating private functions 
+- DRY: Dont repeat yourselve
+- Use inheretirance when possible
+- Add comments and docstrings
+- Functions should only do one thing
+- Choose names carefully
+
+- Tests: For small examples
+import doctest
+doctest.testmod() -> For small test
+"""
+>>> square(3)
+9
+"""
+- Pytest: For big test
+	Directory workdir/tests/test_document.py
+	def test_document_tokens():
+		doc = Document('a e i o u')
+
+		assert doc.tokens==['a','e','i','o','u']
+		# It is a good idea to test edge cases
+		# To compare objects we compare attributes
+
+terminal:
+pytest
+
